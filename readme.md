@@ -12,3 +12,9 @@ console.log("Hello World")
 
 
 ```
+```CSS
+    p{
+        color: #000;
+    }
+
+```
